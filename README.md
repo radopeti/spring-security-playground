@@ -1,2 +1,2 @@
-# spring-security-playground
+spring-security-playground
 Spring Security practise project
